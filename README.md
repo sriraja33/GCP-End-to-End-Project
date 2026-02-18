@@ -1,4 +1,4 @@
-# Azure-Data-Engineering-Project
+# GCP-End-to-End-Data-Engineering-Project
 ## Introduction
 This project demonstrates a complete, production-style data engineering workflow built entirely on **Google Cloud Platform (GCP)**.
 
@@ -45,3 +45,4 @@ This repository reflects an end-to-end cloud-native data workflow - from ingesti
 1) [Extract](https://github.com/sriraja33/GCP-End-to-End-Project/blob/main/Mage_Files/Extract.ipynb)
 2) [Transform](https://github.com/sriraja33/GCP-End-to-End-Project/blob/main/Mage_Files/Transform.ipynb)
 3) [Load](https://github.com/sriraja33/GCP-End-to-End-Project/blob/main/Mage_Files/Load.ipynb)
+4) Command Line Interface - Mage AI, Google Big Query - (https://github.com/sriraja33/GCP-End-to-End-Project/blob/main/commands.txt)
